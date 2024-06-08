@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38714045388",
+    "project_id": "bai1-6f304",
+    "storage_bucket": "bai1-6f304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38714045388:android:c61fb459f5b05eb67ca369",
+        "android_client_info": {
+          "package_name": "com.example.bai1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAL-_iNpuTyFgWnEUtv3iEXPkDrBVleNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
